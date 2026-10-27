@@ -1,0 +1,1 @@
+<div class="alert alert-primary mb-4" role="status"><h2 class="h5">{title}</h2><div>{error}</div></div>

@@ -1,0 +1,1 @@
+<div><a href="{full-link}" class="text-reset btn-link">{title}</a></div>

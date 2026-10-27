@@ -1,0 +1,10 @@
+*.log
+*.sql
+*.bak
+*.zip
+.env
+.env.*
+Pass.txt
+LOCAL-ACCESS.txt
+Thumbs.db
+.DS_Store
